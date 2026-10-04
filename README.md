@@ -32,7 +32,7 @@ Desarrollado por:
 4. Introduce el repositorio:
 
 ```text
-RY456/YojaTV-For-KinoTV
+YojaTV/YojaTV_plugin
 ```
 
 5. Pulsa `Agregar`.
@@ -46,7 +46,7 @@ RY456/YojaTV-For-KinoTV
 4. Introduce:
 
 ```text
-RY456/YojaTV-For-KinoTV
+YojaTV/YojaTV_plugin
 ```
 
 5. Confirma el repositorio.
